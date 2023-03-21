@@ -1,0 +1,12 @@
+document object 
+d*ocument object represents the whole html document as a tree of Objects.
+*root element that represents the html document.
+*document object, JavaScript can modify, add and delete the HTML elements, 
+attributes CSS styles in the page.
+*It is loaded inside the window.
+
+Windows Object
+*represents a browser window or frame that displays the contents of the webpage.
+*very first object that is loaded in the browser.
+*Global objects, functions, 
+and variables of JavaScript are members of the window object.
